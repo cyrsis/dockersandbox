@@ -54,3 +54,21 @@ TCP Socket:
 https://docs.docker.com/samples/library/mongo/#-via-docker-stack-deploy-or-docker-compose
 
 
+##Quick Summary
+
+ocker images # 列出目前本地端有抓好哪些 docker image
+
+docker ps # 列出目前正在運行中的 docker container
+
+docker ps -a # 列出目前本地端一共有哪些 docker container (包含已經停止運行的)
+
+docker pull [image_name:version] # 從 docker hub 下載一個特定版本的 docker image
+
+docker pull [image] # 從 docker hub 下載最新版本的 docker image
+
+docker run [image] # 從 docker image 建立一個 docker container 並且運行
+
+docker start [container] # 啟動 docker container
+
+docker stop [container] # 停止 docker container
+
