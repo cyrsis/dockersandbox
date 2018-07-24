@@ -72,3 +72,19 @@ docker start [container] # 啟動 docker container
 
 docker stop [container] # 停止 docker container
 
+
+##Docker network
+
+### Three Thing in Docker
+ CMN -Docker
+Libnetwork -> Written in Go
+ Drivers  -> Bridge, Overlay
+
+   CNM - Docker , Docker
+vs CNI - K8s , CoreOS
+
+
+## swarm (multi-host) vs local (single host)
+
+docker network ls
+
