@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92247d9-d5bb-47e0-bee1-1149e9506fd7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../dockersandbox/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockersandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dockersandbox/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockersandbox/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dockersandbox/README.md" afterDir="false" />
     </list>
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/../dockersandbox/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <first_editor>
+                <caret column="34" selection-start-column="34" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -104,6 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -180,12 +180,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532410787489</updated>
-      <workItem from="1532410790443" duration="1021000" />
+      <workItem from="1532410790443" duration="1368000" />
     </task>
+    <task id="LOCAL-00001" summary="Added some notes about how to setup intellij for Docker">
+      <created>1532411838579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532411838579</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1021000" />
+    <option name="totallyTimeSpent" value="1368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
@@ -233,12 +241,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added some notes about how to setup intellij for Docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some notes about how to setup intellij for Docker" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../dockersandbox/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <first_editor>
+            <caret column="34" selection-start-column="34" selection-end-column="34" />
           </first_editor>
           <second_editor />
         </state>
