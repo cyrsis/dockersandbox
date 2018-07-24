@@ -1,5 +1,9 @@
 ##Detail Guide for intellij 2018.1 and docker
 
+### Intellij Plugin
+
+Search for 'Docker integration' in Plugin
+
 ###Windows Docker toolbox (virtual Box)
 
 Ref:https://docs.docker.com/toolbox/faqs/troubleshoot/#solutions
@@ -35,3 +39,9 @@ TCP Socket:
 `https://192.168.99.100:2376`
 
 `C:\Users\user\.docker\machine\machines\default`
+
+##Set up Mongo
+
+https://docs.docker.com/samples/library/mongo/#-via-docker-stack-deploy-or-docker-compose
+
+
