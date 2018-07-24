@@ -32,6 +32,8 @@ Login with abc:abc123456
 docker run -p 3306:3306 --name mymysql -v $PWD/mysql/logs:/logs -v $PWD/mysql/data:/mysql_data -e MYSQL_ROOT_PASSWORD=123456 -d mysql:latest sleep infinity
 
 
+Exit
+`exit;`
 
 ### 进入之后，要对用户进行授权，否则用navicat连接不上。
 GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY '123456';
