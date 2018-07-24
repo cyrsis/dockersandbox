@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e92247d9-d5bb-47e0-bee1-1149e9506fd7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../dockersandbox/docker/mongo.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockersandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dockersandbox/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dockersandbox/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dockersandbox/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dockersandbox/docker/mongo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../dockersandbox/docker/mongo.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../dockersandbox/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mongo.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../dockersandbox/docker/mongo.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../dockersandbox/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="408">
+                <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -33,8 +36,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../dockersandbox/README.md" />
         <option value="$PROJECT_DIR$/../dockersandbox/docker/mongo.yml" />
+        <option value="$PROJECT_DIR$/../dockersandbox/README.md" />
       </list>
     </option>
   </component>
@@ -199,7 +202,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532410787489</updated>
-      <workItem from="1532410790443" duration="1818000" />
+      <workItem from="1532410790443" duration="2686000" />
     </task>
     <task id="LOCAL-00001" summary="Added some notes about how to setup intellij for Docker">
       <created>1532411838579</created>
@@ -215,24 +218,31 @@
       <option name="project" value="LOCAL" />
       <updated>1532412177953</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Working Stage">
+      <created>1532412626313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532412626313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1818000" />
+    <option name="totallyTimeSpent" value="2686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32924107" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="right" id="Flutter Outline" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info anchor="bottom" id="Docker" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Docker" sideWeight="0.49946696" visible="true" weight="0.32924107" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,23 +279,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some notes about how to setup intellij for Docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some notes about how to setup intellij for Docker" />
+    <MESSAGE value="Working Stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working Stage" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../dockersandbox/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="529">
-            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../dockersandbox/docker/mongo.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../dockersandbox/docker/mongo.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+    <entry file="file://$PROJECT_DIR$/../dockersandbox/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="408">
+            <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

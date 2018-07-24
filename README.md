@@ -1,5 +1,7 @@
 ##Detail Guide for intellij 2018.1 and docker
 
+Update : 7/24/2018 2:05 PM
+
 ### Intellij Plugin
 
 Search for 'Docker integration' in Plugin
@@ -31,6 +33,13 @@ Set Environment Variable
 
 Check to see it
 `docker-machine ls`
+
+##If nothing work
+
+in the
+ 
+ `C:\Users\user\.docker\config.json`
+Remove the "credsStore": "wincred" 
 
 ## Change Docker connection from TCP/IP to
 
