@@ -88,3 +88,23 @@ vs CNI - K8s , CoreOS
 
 docker network ls
 
+#Docker Compose
+
+`docker-compose build`
+
+`docker-compose up -d (background)`
+
+ctrl + c to deteremind
+
+`docker-compose stop`
+
+`docker -ps`
+
+`docker images`
+
+`docker tag gin-web:1.0.1 cyrsis/gin-web:1.0.1`
+
+`docker push cyrsis/gin-web:1.0.1`
+
+
+
